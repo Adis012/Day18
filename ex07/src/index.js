@@ -8,4 +8,4 @@ for (let set of numberArray) {
 uniqueArray.sort((a, b) => a -b);
 console.log(uniqueArray);
 
-module.exports = { numberArray, uniqueArray};
+module.exports = { numberArray, uniqueArray };
